@@ -1,0 +1,16 @@
+<footer class="footer">
+
+	<div class="wrap">
+
+		<p class="footer__text">{{ site.data.settings.footer_settings.footer_tagline }}</p>
+
+		<div class="footer__copyright">
+			<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}.pl</span>
+			<!-- <a href="http://fisz.tech" target="_blank">Made by fisz.tech</a> -->
+		</div>
+
+		{% include socials.html %}
+
+	</div>
+
+</footer>

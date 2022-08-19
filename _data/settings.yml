@@ -10,12 +10,16 @@ menu_settings:
   menu_items:
     - title: 'Witamy!'
       url: '/'
+    - title: 'Aktualności'
+      url: '/aktualnosci'      
     - title: 'Nasza misja'
       url: '/misja'
     - title: 'Oferta'
-      url: '/oferta'      
-    - title: 'Blog'
-      url: '/blog/'
+      url: '/oferta'
+    - title: 'Opinie'
+      url: '/opinie'      
+#    - title: 'Blog'
+#      url: '/blog/'
     - title: 'O nas'
       url: '/o-nas/'      
     - title: 'Kontakt'
@@ -78,7 +82,7 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap&text=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz%C4%85%C4%84%C4%99%C4%98%C4%87%C4%86%C5%9B%C5%9A%C5%BA%C5%B9%C5%BC%C5%BB%C3%B3%C5%84%C5%83%C5%82%C5%81!?" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap&text=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789%C4%85%C4%84%C4%99%C4%98%C4%87%C4%86%C5%9B%C5%9A%C5%BA%C5%B9%C5%BC%C5%BB%C3%B3%C5%84%C5%83%C5%82%C5%81!?" rel="stylesheet">'
   title_font: '"Cookie", sans-serif'
   menu_font: '"Cookie", sans-serif'
   body_font: '"Multi", sans-serif'

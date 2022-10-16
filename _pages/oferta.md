@@ -11,4 +11,6 @@ Oto plakaty z kilku dotychczasowych warsztatów.
     <img src="/images/posters/plakat_21_10.png">
     <img src="/images/posters/plakat_22_03.png">
     <img src="/images/posters/plakat_22_06.jpg">
+    <img src="/images/posters/plakat_22_09.png">
+    <img src="/images/posters/program_22_09.png">        
 </div>
